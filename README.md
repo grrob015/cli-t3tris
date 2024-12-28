@@ -6,6 +6,7 @@ It's called 't3tris' because all the pieces are made with three squares.
 - KDE Plasma (Desktop environment for Linux, X11 and Wayland compatible)
 - GCC, the GNU Compiler Collection
 - Konsole (Graphical Terminal Command Shell)
+- VSCode, a free code editor from Microsoft
 
 <h2>Operating Systems Used </h2>
 
